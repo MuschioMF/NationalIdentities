@@ -1,0 +1,6 @@
+# pre draft
+*.pd.*
+
+# workingdir
+workingdir/
+
